@@ -2,11 +2,11 @@
 AVL tree and Fibonacci Heap implementations
 
 ## Componants
-- **Insert**: Add a value in the tree and balance the tree accordingly.
-- **Delete**: Remove a value from the tree and rebalance.
-- **Search**: Find the index of a value in the tree.
-- **Traversal**: Supports various tree traversal methods to explore values.
-- **Balance Maintenance**: Automatic balancing of the tree after insertions and deletions to ensure optimal performance.
+- **AVLTreeList.py**: The main Python script for AVL tree operations including insertions, deletions, and balancing.
+- **Tester_for_AVL_tree.py**: A Python testing script for verifying the correctness and efficiency of the AVL tree operations.
+- **FibonacciHeap.java**: The main Java class that implements the Fibonacci heap data structure, supporting operations like insert, delete min, and meld.
+- **Tester_for_fibonacci_heap.java**: A Java testing script for ensuring the Fibonacci heap operations work as expected under various scenarios.
+
 
 ## AVL Tree Implementation
 
