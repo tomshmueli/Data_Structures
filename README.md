@@ -1,6 +1,13 @@
 # Data_Structures
 AVL tree and Fibonacci Heap implementations
 
+## Componants
+- **Insert**: Add a value in the tree and balance the tree accordingly.
+- **Delete**: Remove a value from the tree and rebalance.
+- **Search**: Find the index of a value in the tree.
+- **Traversal**: Supports various tree traversal methods to explore values.
+- **Balance Maintenance**: Automatic balancing of the tree after insertions and deletions to ensure optimal performance.
+
 ## AVL Tree Implementation
 
 ### Overview
